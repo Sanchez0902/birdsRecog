@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "465222651209",
+    "project_id": "pakshiapp-36bc8",
+    "storage_bucket": "pakshiapp-36bc8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:465222651209:android:fb2f9333a678bb18ec1e98",
+        "android_client_info": {
+          "package_name": "com.example.pakshiapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "465222651209-0pu2evenvhjvro5r0rdhijkvlfave43h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiCe6G4nozLOBAwibHDLv5JNSqcfGLfyw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "465222651209-0pu2evenvhjvro5r0rdhijkvlfave43h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
