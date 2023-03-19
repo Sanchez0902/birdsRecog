@@ -24,39 +24,42 @@ Link: https://www.kaggle.com/code/astroaman/birds-species-classification-with-in
 
 The applicaton opens to a Home Page which opens upto the login page where details are entered. E-mail and Password are entered.
 
-![WhatsApp Image 2023-01-08 at 20 52 28](https://user-images.githubusercontent.com/121747046/226203542-0c9d3eb4-818a-4bb0-aa99-d98c5ce550c5.jpeg)
-![WhatsApp Image 2023-01-08 at 20 52 29 (2)](https://user-images.githubusercontent.com/121747046/226203564-82f07f5f-b542-4359-b354-74178db6ad6c.jpeg)
+![image](https://user-images.githubusercontent.com/121747046/226204289-81fb7295-fd8c-4ccd-8128-565866e86246.png)
+![image](https://user-images.githubusercontent.com/121747046/226204301-776fc7ff-459c-4a58-8a10-033c6b1318e7.png)
+
 
 
 This is followed by the Picture page where we can select pictures either from the Gallery or can be taken from the camera.
 
-![WhatsApp Image 2023-01-08 at 20 52 29 (3)](https://user-images.githubusercontent.com/121747046/226203568-2404ad94-475a-4413-8ffa-b0fd7d0eb669.jpeg)
-
-![WhatsApp Image 2023-01-08 at 20 52 30](https://user-![WhatsApp Image 2023-01-08 at 20 52 30 (1)](https://user-images.githubusercontent.com/121747046/226203616-64082c3d-f44a-48e5-8bac-bb8a29165dc2.jpeg)
-images.githubusercontent.com/121747046/226203602-fe13700e-9f4c-472f-8f62-64bc03341818.jpeg)
+![image](https://user-images.githubusercontent.com/121747046/226204332-b99dbb62-63dd-43cb-8619-b9c1d8ebf0b8.png)
+![image](https://user-images.githubusercontent.com/121747046/226204361-50bbc2a2-0e32-4475-aa3c-29ec6b53a9ee.png)
 
 If done through camera
 
-
-![WhatsApp Image 2023-01-08 at 21 51 12](https://user-images.gith![WhatsApp Image 2023-01-08 at 21 51 13](https://user-images.githubusercontent.com/121747046/226203750-32d68a46-6802-423a-a3e9-096f0141db4b.jpeg)
-ubusercontent.com/121747046/226203744-0504404f-d33e-4f3f-8c42-a16d823a1da9.jpeg)
-
+![image](https://user-images.githubusercontent.com/121747046/226204389-ff84dcfd-d399-4811-9a46-369eec9eb723.png)
+![image](https://user-images.githubusercontent.com/121747046/226204470-0180fe1d-4f38-4d33-bb65-d00d3f280f63.png)
 
 After picture to be recognised has been selected, we select the Predict button from the Prediction Page. 
 
-![WhatsApp Image 2023-01-08 at 20 52 31](https://user-images.githubusercontent.com/121747046/226203765-4bc40128-590f-4832-8679-331d979960ea.jpeg)
-![WhatsApp Image 2023-01-08 at 21 51 13](https://user-images.githubusercontent.com/121747046/226203772-491c2c60-6fed-4772-b1fd-1fa52c98b34d.jpeg)
+![image](https://user-images.githubusercontent.com/121747046/226204586-63c67d30-eaac-45a1-bd49-44641c312c9c.png)
+
+![image](https://user-images.githubusercontent.com/121747046/226204601-f2283bb9-e7a5-4481-afff-287796d054e3.png)
+
+![image](https://user-images.githubusercontent.com/121747046/226204651-2070e071-9872-4e96-8005-95f2eaf8f8e8.png)
+
+![image](https://user-images.githubusercontent.com/121747046/226204668-cdda2d15-a387-4ec0-8c62-d1f0b1da717a.png)
 
 
-On ![WhatsApp Image 2023-01-08 at 20 52 31](https://user-images.githubusercontent.com/121747046/226203868-7c64eadf-7bd1-4ec4-9a16-6afd91bc9e91.jpeg)
-
-![WhatsApp Image 2023-01-08 at 21 51 14](https://user-images.githubusercontent.com/121747046/226203878-0358b1ac-3bd4-4f21-a20b-88ed5592ca15.jpeg)
 
 selecting the What's that?
 We get the Wikipedia page describing the bird's information.
 
-![WhatsApp Image 2023-01-08 at 20 52 31 (1)](https://user-images.githubusercontent.com/121747046/226203893-6b234e2e-e06a-4637-b55e-c230bc79e986.jpeg)
-![WhatsApp Image 2023-01-08 at 21 51 14 (1)](https://user-images.githubusercontent.com/121747046/226203896-153c40ae-503e-4237-a196-28c8f5507910.jpeg)
+![image](https://user-images.githubusercontent.com/121747046/226204689-269875e9-f7a6-4948-8d66-206ffa532fab.png)
+![image](https://user-images.githubusercontent.com/121747046/226204707-066e1841-6002-423c-9a52-e19344794572.png)
+
+![image](https://user-images.githubusercontent.com/121747046/226204724-3bad466e-545f-44a8-8afc-73bd0d782522.png)
+
+![image](https://user-images.githubusercontent.com/121747046/226204731-62e1a98e-657f-43f2-a5be-d2de2fb32e56.png)
 
 
 ### Database Description
@@ -103,6 +106,10 @@ Utility of Auxiliary Classifiers
 Efficient Grid Size Reduction
 
 More info in: https://iq.opengenus.org/inception-v3-model-architecture/
+
+An overall picture:
+
+![download](https://user-images.githubusercontent.com/121747046/226204817-8634b65e-b141-41e2-80b9-e0b97b4e9306.jpg)
 
 
 
